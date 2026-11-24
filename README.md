@@ -1,4 +1,4 @@
-### Hi there, I'm Kanak Chowdhury 👋
+### Hi there, I'm Kanak Chowdhury
 
 - **1st-Year B.Tech CSE Undergraduate** at **NIT Silchar** (ICCR Scholar, Government of India)
 - Currently learning **C Programming, Python, HTML** and **Generative AI Fundamentals**
